@@ -1,0 +1,22 @@
+{   "Monday": {
+      "className": "Ripped & Stripped",
+      "time": "12:15",
+      "location": "Farringdon"
+    },
+    "Tuesday": {
+      "className": "Bike & Beats",
+      "time": "12:15",
+      "location": "Farringdon"      
+    },
+    "Thursday": {
+      "className": "Ripped & Stripped",
+      "time": "12:15",
+      "location": "Farringdon"
+    },
+    "Friday": {
+      "className": "Bike & Beats",
+      "time": "13:00",
+      "location": "Farringdon"
+    }
+} 
+
